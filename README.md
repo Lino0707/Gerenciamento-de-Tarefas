@@ -1,7 +1,7 @@
 # Gerenciamento-de-Tarefas
 Sistema utilizando arquitetura de 3 camadas
 
-#Ferramentas:
+# Ferramentas:
 Python
 Flask
 SQLite
