@@ -2,7 +2,7 @@
 Sistema utilizando arquitetura de 3 camadas
 
 # Ferramentas:
-Python
-Flask
-SQLite
+- Python
+- Flask
+- SQLite
 
